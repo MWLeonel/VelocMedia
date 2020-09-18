@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\bin\Debug\netcoreapp3.1\VelocMedia.exe
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\bin\Debug\netcoreapp3.1\VelocMedia.deps.json
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\bin\Debug\netcoreapp3.1\VelocMedia.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\bin\Debug\netcoreapp3.1\VelocMedia.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\bin\Debug\netcoreapp3.1\VelocMedia.dll
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\bin\Debug\netcoreapp3.1\VelocMedia.pdb
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.dll
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.pdb
+C:\Users\Max Leonel\Desktop\VelocMedia\VelocMedia\obj\Debug\netcoreapp3.1\VelocMedia.genruntimeconfig.cache
